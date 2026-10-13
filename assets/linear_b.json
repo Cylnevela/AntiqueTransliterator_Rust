@@ -1,0 +1,1919 @@
+[
+  {
+    "number": 8,
+    "codepoint": "U+10000",
+    "symbol": "𐀀",
+    "phonetic": "a",
+    "category": "main",
+    "name_fr": "Syllabe a",
+    "name_en": "Syllable a"
+  },
+  {
+    "number": 38,
+    "codepoint": "U+10001",
+    "symbol": "𐀁",
+    "phonetic": "e",
+    "category": "main",
+    "name_fr": "Syllabe e",
+    "name_en": "Syllable e"
+  },
+  {
+    "number": 28,
+    "codepoint": "U+10002",
+    "symbol": "𐀂",
+    "phonetic": "i",
+    "category": "main",
+    "name_fr": "Syllabe i",
+    "name_en": "Syllable i"
+  },
+  {
+    "number": 61,
+    "codepoint": "U+10003",
+    "symbol": "𐀃",
+    "phonetic": "o",
+    "category": "main",
+    "name_fr": "Syllabe o",
+    "name_en": "Syllable o"
+  },
+  {
+    "number": 10,
+    "codepoint": "U+10004",
+    "symbol": "𐀄",
+    "phonetic": "u",
+    "category": "main",
+    "name_fr": "Syllabe u",
+    "name_en": "Syllable u"
+  },
+  {
+    "number": 1,
+    "codepoint": "U+10005",
+    "symbol": "𐀅",
+    "phonetic": "da",
+    "category": "main",
+    "name_fr": "Syllabe da",
+    "name_en": "Syllable da"
+  },
+  {
+    "number": 45,
+    "codepoint": "U+10006",
+    "symbol": "𐀆",
+    "phonetic": "de",
+    "category": "main",
+    "name_fr": "Syllabe de",
+    "name_en": "Syllable de"
+  },
+  {
+    "number": 7,
+    "codepoint": "U+10007",
+    "symbol": "𐀇",
+    "phonetic": "di",
+    "category": "main",
+    "name_fr": "Syllabe di",
+    "name_en": "Syllable di"
+  },
+  {
+    "number": 14,
+    "codepoint": "U+10008",
+    "symbol": "𐀈",
+    "phonetic": "do",
+    "category": "main",
+    "name_fr": "Syllabe do",
+    "name_en": "Syllable do"
+  },
+  {
+    "number": 51,
+    "codepoint": "U+10009",
+    "symbol": "𐀉",
+    "phonetic": "du",
+    "category": "main",
+    "name_fr": "Syllabe du",
+    "name_en": "Syllable du"
+  },
+  {
+    "number": 57,
+    "codepoint": "U+1000A",
+    "symbol": "𐀊",
+    "phonetic": "ja",
+    "category": "main",
+    "name_fr": "Syllabe ja",
+    "name_en": "Syllable ja"
+  },
+  {
+    "number": 46,
+    "codepoint": "U+1000B",
+    "symbol": "𐀋",
+    "phonetic": "je",
+    "category": "main",
+    "name_fr": "Syllabe je",
+    "name_en": "Syllable je"
+  },
+  {
+    "number": 36,
+    "codepoint": "U+1000D",
+    "symbol": "𐀍",
+    "phonetic": "jo",
+    "category": "main",
+    "name_fr": "Syllabe jo",
+    "name_en": "Syllable jo"
+  },
+  {
+    "number": 65,
+    "codepoint": "U+1000E",
+    "symbol": "𐀎",
+    "phonetic": "ju",
+    "category": "main",
+    "name_fr": "Syllabe ju",
+    "name_en": "Syllable ju"
+  },
+  {
+    "number": 77,
+    "codepoint": "U+1000F",
+    "symbol": "𐀏",
+    "phonetic": "ka",
+    "category": "main",
+    "name_fr": "Syllabe ka",
+    "name_en": "Syllable ka"
+  },
+  {
+    "number": 44,
+    "codepoint": "U+10010",
+    "symbol": "𐀐",
+    "phonetic": "ke",
+    "category": "main",
+    "name_fr": "Syllabe ke",
+    "name_en": "Syllable ke"
+  },
+  {
+    "number": 67,
+    "codepoint": "U+10011",
+    "symbol": "𐀑",
+    "phonetic": "ki",
+    "category": "main",
+    "name_fr": "Syllabe ki",
+    "name_en": "Syllable ki"
+  },
+  {
+    "number": 70,
+    "codepoint": "U+10012",
+    "symbol": "𐀒",
+    "phonetic": "ko",
+    "category": "main",
+    "name_fr": "Syllabe ko",
+    "name_en": "Syllable ko"
+  },
+  {
+    "number": 81,
+    "codepoint": "U+10013",
+    "symbol": "𐀓",
+    "phonetic": "ku",
+    "category": "main",
+    "name_fr": "Syllabe ku",
+    "name_en": "Syllable ku"
+  },
+  {
+    "number": 80,
+    "codepoint": "U+10014",
+    "symbol": "𐀔",
+    "phonetic": "ma",
+    "category": "main",
+    "name_fr": "Syllabe ma",
+    "name_en": "Syllable ma"
+  },
+  {
+    "number": 13,
+    "codepoint": "U+10015",
+    "symbol": "𐀕",
+    "phonetic": "me",
+    "category": "main",
+    "name_fr": "Syllabe me",
+    "name_en": "Syllable me"
+  },
+  {
+    "number": 73,
+    "codepoint": "U+10016",
+    "symbol": "𐀖",
+    "phonetic": "mi",
+    "category": "main",
+    "name_fr": "Syllabe mi",
+    "name_en": "Syllable mi"
+  },
+  {
+    "number": 15,
+    "codepoint": "U+10017",
+    "symbol": "𐀗",
+    "phonetic": "mo",
+    "category": "main",
+    "name_fr": "Syllabe mo",
+    "name_en": "Syllable mo"
+  },
+  {
+    "number": 23,
+    "codepoint": "U+10018",
+    "symbol": "𐀘",
+    "phonetic": "mu",
+    "category": "main",
+    "name_fr": "Syllabe mu",
+    "name_en": "Syllable mu"
+  },
+  {
+    "number": 6,
+    "codepoint": "U+10019",
+    "symbol": "𐀙",
+    "phonetic": "na",
+    "category": "main",
+    "name_fr": "Syllabe na",
+    "name_en": "Syllable na"
+  },
+  {
+    "number": 24,
+    "codepoint": "U+1001A",
+    "symbol": "𐀚",
+    "phonetic": "ne",
+    "category": "main",
+    "name_fr": "Syllabe ne",
+    "name_en": "Syllable ne"
+  },
+  {
+    "number": 30,
+    "codepoint": "U+1001B",
+    "symbol": "𐀛",
+    "phonetic": "ni",
+    "category": "main",
+    "name_fr": "Syllabe ni",
+    "name_en": "Syllable ni"
+  },
+  {
+    "number": 52,
+    "codepoint": "U+1001C",
+    "symbol": "𐀜",
+    "phonetic": "no",
+    "category": "main",
+    "name_fr": "Syllabe no",
+    "name_en": "Syllable no"
+  },
+  {
+    "number": 55,
+    "codepoint": "U+1001D",
+    "symbol": "𐀝",
+    "phonetic": "nu",
+    "category": "main",
+    "name_fr": "Syllabe nu",
+    "name_en": "Syllable nu"
+  },
+  {
+    "number": 3,
+    "codepoint": "U+1001E",
+    "symbol": "𐀞",
+    "phonetic": "pa",
+    "category": "main",
+    "name_fr": "Syllabe pa",
+    "name_en": "Syllable pa"
+  },
+  {
+    "number": 72,
+    "codepoint": "U+1001F",
+    "symbol": "𐀟",
+    "phonetic": "pe",
+    "category": "main",
+    "name_fr": "Syllabe pe",
+    "name_en": "Syllable pe"
+  },
+  {
+    "number": 39,
+    "codepoint": "U+10020",
+    "symbol": "𐀠",
+    "phonetic": "pi",
+    "category": "main",
+    "name_fr": "Syllabe pi",
+    "name_en": "Syllable pi"
+  },
+  {
+    "number": 11,
+    "codepoint": "U+10021",
+    "symbol": "𐀡",
+    "phonetic": "po",
+    "category": "main",
+    "name_fr": "Syllabe po",
+    "name_en": "Syllable po"
+  },
+  {
+    "number": 50,
+    "codepoint": "U+10022",
+    "symbol": "𐀢",
+    "phonetic": "pu",
+    "category": "main",
+    "name_fr": "Syllabe pu",
+    "name_en": "Syllable pu"
+  },
+  {
+    "number": 16,
+    "codepoint": "U+10023",
+    "symbol": "𐀣",
+    "phonetic": "qa",
+    "category": "main",
+    "name_fr": "Syllabe qa",
+    "name_en": "Syllable qa"
+  },
+  {
+    "number": 78,
+    "codepoint": "U+10024",
+    "symbol": "𐀤",
+    "phonetic": "qe",
+    "category": "main",
+    "name_fr": "Syllabe qe",
+    "name_en": "Syllable qe"
+  },
+  {
+    "number": 21,
+    "codepoint": "U+10025",
+    "symbol": "𐀥",
+    "phonetic": "qi",
+    "category": "main",
+    "name_fr": "Syllabe qi",
+    "name_en": "Syllable qi"
+  },
+  {
+    "number": 32,
+    "codepoint": "U+10026",
+    "symbol": "𐀦",
+    "phonetic": "qo",
+    "category": "main",
+    "name_fr": "Syllabe qo",
+    "name_en": "Syllable qo"
+  },
+  {
+    "number": 60,
+    "codepoint": "U+10028",
+    "symbol": "𐀨",
+    "phonetic": "ra",
+    "category": "main",
+    "name_fr": "Syllabe ra",
+    "name_en": "Syllable ra"
+  },
+  {
+    "number": 27,
+    "codepoint": "U+10029",
+    "symbol": "𐀩",
+    "phonetic": "re",
+    "category": "main",
+    "name_fr": "Syllabe re",
+    "name_en": "Syllable re"
+  },
+  {
+    "number": 53,
+    "codepoint": "U+1002A",
+    "symbol": "𐀪",
+    "phonetic": "ri",
+    "category": "main",
+    "name_fr": "Syllabe ri",
+    "name_en": "Syllable ri"
+  },
+  {
+    "number": 2,
+    "codepoint": "U+1002B",
+    "symbol": "𐀫",
+    "phonetic": "ro",
+    "category": "main",
+    "name_fr": "Syllabe ro",
+    "name_en": "Syllable ro"
+  },
+  {
+    "number": 26,
+    "codepoint": "U+1002C",
+    "symbol": "𐀬",
+    "phonetic": "ru",
+    "category": "main",
+    "name_fr": "Syllabe ru",
+    "name_en": "Syllable ru"
+  },
+  {
+    "number": 31,
+    "codepoint": "U+1002D",
+    "symbol": "𐀭",
+    "phonetic": "sa",
+    "category": "main",
+    "name_fr": "Syllabe sa",
+    "name_en": "Syllable sa"
+  },
+  {
+    "number": 9,
+    "codepoint": "U+1002E",
+    "symbol": "𐀮",
+    "phonetic": "se",
+    "category": "main",
+    "name_fr": "Syllabe se",
+    "name_en": "Syllable se"
+  },
+  {
+    "number": 41,
+    "codepoint": "U+1002F",
+    "symbol": "𐀯",
+    "phonetic": "si",
+    "category": "main",
+    "name_fr": "Syllabe si",
+    "name_en": "Syllable si"
+  },
+  {
+    "number": 12,
+    "codepoint": "U+10030",
+    "symbol": "𐀰",
+    "phonetic": "so",
+    "category": "main",
+    "name_fr": "Syllabe so",
+    "name_en": "Syllable so"
+  },
+  {
+    "number": 58,
+    "codepoint": "U+10031",
+    "symbol": "𐀱",
+    "phonetic": "su",
+    "category": "main",
+    "name_fr": "Syllabe su",
+    "name_en": "Syllable su"
+  },
+  {
+    "number": 59,
+    "codepoint": "U+10032",
+    "symbol": "𐀲",
+    "phonetic": "ta",
+    "category": "main",
+    "name_fr": "Syllabe ta",
+    "name_en": "Syllable ta"
+  },
+  {
+    "number": 4,
+    "codepoint": "U+10033",
+    "symbol": "𐀳",
+    "phonetic": "te",
+    "category": "main",
+    "name_fr": "Syllabe te",
+    "name_en": "Syllable te"
+  },
+  {
+    "number": 37,
+    "codepoint": "U+10034",
+    "symbol": "𐀴",
+    "phonetic": "ti",
+    "category": "main",
+    "name_fr": "Syllabe ti",
+    "name_en": "Syllable ti"
+  },
+  {
+    "number": 5,
+    "codepoint": "U+10035",
+    "symbol": "𐀵",
+    "phonetic": "to",
+    "category": "main",
+    "name_fr": "Syllabe to",
+    "name_en": "Syllable to"
+  },
+  {
+    "number": 69,
+    "codepoint": "U+10036",
+    "symbol": "𐀶",
+    "phonetic": "tu",
+    "category": "main",
+    "name_fr": "Syllabe tu",
+    "name_en": "Syllable tu"
+  },
+  {
+    "number": 54,
+    "codepoint": "U+10037",
+    "symbol": "𐀷",
+    "phonetic": "wa",
+    "category": "main",
+    "name_fr": "Syllabe wa",
+    "name_en": "Syllable wa"
+  },
+  {
+    "number": 75,
+    "codepoint": "U+10038",
+    "symbol": "𐀸",
+    "phonetic": "we",
+    "category": "main",
+    "name_fr": "Syllabe we",
+    "name_en": "Syllable we"
+  },
+  {
+    "number": 40,
+    "codepoint": "U+10039",
+    "symbol": "𐀹",
+    "phonetic": "wi",
+    "category": "main",
+    "name_fr": "Syllabe wi",
+    "name_en": "Syllable wi"
+  },
+  {
+    "number": 42,
+    "codepoint": "U+1003A",
+    "symbol": "𐀺",
+    "phonetic": "wo",
+    "category": "main",
+    "name_fr": "Syllabe wo",
+    "name_en": "Syllable wo"
+  },
+  {
+    "number": 17,
+    "codepoint": "U+1003C",
+    "symbol": "𐀼",
+    "phonetic": "za",
+    "category": "main",
+    "name_fr": "Syllabe za",
+    "name_en": "Syllable za"
+  },
+  {
+    "number": 74,
+    "codepoint": "U+1003D",
+    "symbol": "𐀽",
+    "phonetic": "ze",
+    "category": "main",
+    "name_fr": "Syllabe ze",
+    "name_en": "Syllable ze"
+  },
+  {
+    "number": 20,
+    "codepoint": "U+1003F",
+    "symbol": "𐀿",
+    "phonetic": "zo",
+    "category": "main",
+    "name_fr": "Syllabe zo",
+    "name_en": "Syllable zo"
+  },
+  {
+    "number": 25,
+    "codepoint": "U+10040",
+    "symbol": "𐁀",
+    "phonetic": "a₂?",
+    "category": "special",
+    "name_fr": "Syllabe a₂",
+    "name_en": "Syllable a₂"
+  },
+  {
+    "number": 43,
+    "codepoint": "U+10041",
+    "symbol": "𐁁",
+    "phonetic": "a₃?",
+    "category": "special",
+    "name_fr": "Syllabe a₃",
+    "name_en": "Syllable a₃"
+  },
+  {
+    "number": 85,
+    "codepoint": "U+10042",
+    "symbol": "𐁂",
+    "phonetic": "au?",
+    "category": "special",
+    "name_fr": "Syllabe au",
+    "name_en": "Syllable au"
+  },
+  {
+    "number": 71,
+    "codepoint": "U+10043",
+    "symbol": "𐁃",
+    "phonetic": "dwe?",
+    "category": "special",
+    "name_fr": "Syllabe dwe",
+    "name_en": "Syllable dwe"
+  },
+  {
+    "number": 90,
+    "codepoint": "U+10044",
+    "symbol": "𐁄",
+    "phonetic": "dwo?",
+    "category": "special",
+    "name_fr": "Syllabe dwo",
+    "name_en": "Syllable dwo"
+  },
+  {
+    "number": 48,
+    "codepoint": "U+10045",
+    "symbol": "𐁅",
+    "phonetic": "nwa?",
+    "category": "special",
+    "name_fr": "Syllabe nwa",
+    "name_en": "Syllable nwa"
+  },
+  {
+    "number": 29,
+    "codepoint": "U+10046",
+    "symbol": "𐁆",
+    "phonetic": "pu₂?",
+    "category": "special",
+    "name_fr": "Syllabe pu₂",
+    "name_en": "Syllable pu₂"
+  },
+  {
+    "number": 62,
+    "codepoint": "U+10047",
+    "symbol": "𐁇",
+    "phonetic": "pte?",
+    "category": "special",
+    "name_fr": "Syllabe pte",
+    "name_en": "Syllable pte"
+  },
+  {
+    "number": 76,
+    "codepoint": "U+10048",
+    "symbol": "𐁈",
+    "phonetic": "ra₂?",
+    "category": "special",
+    "name_fr": "Syllabe ra₂",
+    "name_en": "Syllable ra₂"
+  },
+  {
+    "number": 33,
+    "codepoint": "U+10049",
+    "symbol": "𐁉",
+    "phonetic": "ra₃?",
+    "category": "special",
+    "name_fr": "Syllabe ra₃",
+    "name_en": "Syllable ra₃"
+  },
+  {
+    "number": 68,
+    "codepoint": "U+1004A",
+    "symbol": "𐁊",
+    "phonetic": "ro₂?",
+    "category": "special",
+    "name_fr": "Syllabe ro₂",
+    "name_en": "Syllable ro₂"
+  },
+  {
+    "number": 66,
+    "codepoint": "U+1004B",
+    "symbol": "𐁋",
+    "phonetic": "ta₂?",
+    "category": "special",
+    "name_fr": "Syllabe ta₂",
+    "name_en": "Syllable ta₂"
+  },
+  {
+    "number": 87,
+    "codepoint": "U+1004C",
+    "symbol": "𐁌",
+    "phonetic": "twe?",
+    "category": "special",
+    "name_fr": "Syllabe twe",
+    "name_en": "Syllable twe"
+  },
+  {
+    "number": 91,
+    "codepoint": "U+1004D",
+    "symbol": "𐁍",
+    "phonetic": "two?",
+    "category": "special",
+    "name_fr": "Syllabe two",
+    "name_en": "Syllable two"
+  },
+  {
+    "number": 18,
+    "codepoint": "U+10050",
+    "symbol": "𐁐",
+    "phonetic": "??",
+    "category": "unknown",
+    "name_fr": "Signe B018",
+    "name_en": "Sign B018"
+  },
+  {
+    "number": 19,
+    "codepoint": "U+10051",
+    "symbol": "𐁑",
+    "phonetic": "??",
+    "category": "unknown",
+    "name_fr": "Signe B019",
+    "name_en": "Sign B019"
+  },
+  {
+    "number": 22,
+    "codepoint": "U+10052",
+    "symbol": "𐁒",
+    "phonetic": "??",
+    "category": "unknown",
+    "name_fr": "Signe B022",
+    "name_en": "Sign B022"
+  },
+  {
+    "number": 34,
+    "codepoint": "U+10053",
+    "symbol": "𐁓",
+    "phonetic": "??",
+    "category": "unknown",
+    "name_fr": "Signe B034",
+    "name_en": "Sign B034"
+  },
+  {
+    "number": 47,
+    "codepoint": "U+10054",
+    "symbol": "𐁔",
+    "phonetic": "??",
+    "category": "unknown",
+    "name_fr": "Signe B047",
+    "name_en": "Sign B047"
+  },
+  {
+    "number": 49,
+    "codepoint": "U+10055",
+    "symbol": "𐁕",
+    "phonetic": "??",
+    "category": "unknown",
+    "name_fr": "Signe B049",
+    "name_en": "Sign B049"
+  },
+  {
+    "number": 56,
+    "codepoint": "U+10056",
+    "symbol": "𐁖",
+    "phonetic": "??",
+    "category": "unknown",
+    "name_fr": "Signe B056",
+    "name_en": "Sign B056"
+  },
+  {
+    "number": 63,
+    "codepoint": "U+10057",
+    "symbol": "𐁗",
+    "phonetic": "??",
+    "category": "unknown",
+    "name_fr": "Signe B063",
+    "name_en": "Sign B063"
+  },
+  {
+    "number": 64,
+    "codepoint": "U+10058",
+    "symbol": "𐁘",
+    "phonetic": "??",
+    "category": "unknown",
+    "name_fr": "Signe B064",
+    "name_en": "Sign B064"
+  },
+  {
+    "number": 79,
+    "codepoint": "U+10059",
+    "symbol": "𐁙",
+    "phonetic": "??",
+    "category": "unknown",
+    "name_fr": "Signe B079",
+    "name_en": "Sign B079"
+  },
+  {
+    "number": 82,
+    "codepoint": "U+1005A",
+    "symbol": "𐁚",
+    "phonetic": "??",
+    "category": "unknown",
+    "name_fr": "Signe B082",
+    "name_en": "Sign B082"
+  },
+  {
+    "number": 83,
+    "codepoint": "U+1005B",
+    "symbol": "𐁛",
+    "phonetic": "??",
+    "category": "unknown",
+    "name_fr": "Signe B083",
+    "name_en": "Sign B083"
+  },
+  {
+    "number": 86,
+    "codepoint": "U+1005C",
+    "symbol": "𐁜",
+    "phonetic": "??",
+    "category": "unknown",
+    "name_fr": "Signe B086",
+    "name_en": "Sign B086"
+  },
+  {
+    "number": 89,
+    "codepoint": "U+1005D",
+    "symbol": "𐁝",
+    "phonetic": "??",
+    "category": "unknown",
+    "name_fr": "Signe B089",
+    "name_en": "Sign B089"
+  },
+  {
+    "number": 1000,
+    "codepoint": "U+10080",
+    "symbol": "𐂀",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Homme",
+    "name_en": "Man"
+  },
+  {
+    "number": 1001,
+    "codepoint": "U+10081",
+    "symbol": "𐂁",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Femme",
+    "name_en": "Woman"
+  },
+  {
+    "number": 1002,
+    "codepoint": "U+10082",
+    "symbol": "𐂂",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Cerf",
+    "name_en": "Deer"
+  },
+  {
+    "number": 1003,
+    "codepoint": "U+10083",
+    "symbol": "𐂃",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Équidé",
+    "name_en": "Equid"
+  },
+  {
+    "number": 1004,
+    "codepoint": "U+10084",
+    "symbol": "𐂄",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Jument",
+    "name_en": "Mare"
+  },
+  {
+    "number": 1005,
+    "codepoint": "U+10085",
+    "symbol": "𐂅",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Étalon",
+    "name_en": "Stallion"
+  },
+  {
+    "number": 1006,
+    "codepoint": "U+10086",
+    "symbol": "𐂆",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Brebis",
+    "name_en": "Ewe"
+  },
+  {
+    "number": 1007,
+    "codepoint": "U+10087",
+    "symbol": "𐂇",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Bélier",
+    "name_en": "Ram"
+  },
+  {
+    "number": 1008,
+    "codepoint": "U+10088",
+    "symbol": "𐂈",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Chèvre",
+    "name_en": "She-Goat"
+  },
+  {
+    "number": 1009,
+    "codepoint": "U+10089",
+    "symbol": "𐂉",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Bouc",
+    "name_en": "He-Goat"
+  },
+  {
+    "number": 1010,
+    "codepoint": "U+1008A",
+    "symbol": "𐂊",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Truie",
+    "name_en": "Sow"
+  },
+  {
+    "number": 1011,
+    "codepoint": "U+1008B",
+    "symbol": "𐂋",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Sanglier",
+    "name_en": "Boar"
+  },
+  {
+    "number": 1012,
+    "codepoint": "U+1008C",
+    "symbol": "𐂌",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Vache",
+    "name_en": "Cow"
+  },
+  {
+    "number": 1013,
+    "codepoint": "U+1008D",
+    "symbol": "𐂍",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Taureau",
+    "name_en": "Bull"
+  },
+  {
+    "number": 1014,
+    "codepoint": "U+1008E",
+    "symbol": "𐂎",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Blé",
+    "name_en": "Wheat"
+  },
+  {
+    "number": 1015,
+    "codepoint": "U+1008F",
+    "symbol": "𐂏",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Orge",
+    "name_en": "Barley"
+  },
+  {
+    "number": 1016,
+    "codepoint": "U+10090",
+    "symbol": "𐂐",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Olive",
+    "name_en": "Olive"
+  },
+  {
+    "number": 1017,
+    "codepoint": "U+10091",
+    "symbol": "𐂑",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Épice",
+    "name_en": "Spice"
+  },
+  {
+    "number": 1018,
+    "codepoint": "U+10092",
+    "symbol": "𐂒",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b125",
+    "name_en": "Cyperus"
+  },
+  {
+    "number": 1019,
+    "codepoint": "U+10093",
+    "symbol": "𐂓",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b127",
+    "name_en": "Kapo"
+  },
+  {
+    "number": 1020,
+    "codepoint": "U+10094",
+    "symbol": "𐂔",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b128",
+    "name_en": "Kanako"
+  },
+  {
+    "number": 1021,
+    "codepoint": "U+10095",
+    "symbol": "𐂕",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Huile",
+    "name_en": "Oil"
+  },
+  {
+    "number": 1022,
+    "codepoint": "U+10096",
+    "symbol": "𐂖",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Vin",
+    "name_en": "Wine"
+  },
+  {
+    "number": 1023,
+    "codepoint": "U+10097",
+    "symbol": "𐂗",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b132",
+    "name_en": "Ideogram B132"
+  },
+  {
+    "number": 1024,
+    "codepoint": "U+10098",
+    "symbol": "𐂘",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b133",
+    "name_en": "Arepa"
+  },
+  {
+    "number": 1025,
+    "codepoint": "U+10099",
+    "symbol": "𐂙",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b135",
+    "name_en": "Meri"
+  },
+  {
+    "number": 1026,
+    "codepoint": "U+1009A",
+    "symbol": "𐂚",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Bronze",
+    "name_en": "Bronze"
+  },
+  {
+    "number": 1027,
+    "codepoint": "U+1009B",
+    "symbol": "𐂛",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Or",
+    "name_en": "Gold"
+  },
+  {
+    "number": 1028,
+    "codepoint": "U+1009C",
+    "symbol": "𐂜",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b142",
+    "name_en": "Ideogram B142"
+  },
+  {
+    "number": 1029,
+    "codepoint": "U+1009D",
+    "symbol": "𐂝",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Laine",
+    "name_en": "Wool"
+  },
+  {
+    "number": 1030,
+    "codepoint": "U+1009E",
+    "symbol": "𐂞",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b146",
+    "name_en": "Ideogram B146"
+  },
+  {
+    "number": 1031,
+    "codepoint": "U+1009F",
+    "symbol": "𐂟",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b150",
+    "name_en": "Ideogram B150"
+  },
+  {
+    "number": 1032,
+    "codepoint": "U+100A0",
+    "symbol": "𐂠",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Corne",
+    "name_en": "Horn"
+  },
+  {
+    "number": 1033,
+    "codepoint": "U+100A1",
+    "symbol": "𐂡",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b152",
+    "name_en": "Ideogram B152"
+  },
+  {
+    "number": 1034,
+    "codepoint": "U+100A2",
+    "symbol": "𐂢",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b153",
+    "name_en": "Ideogram B153"
+  },
+  {
+    "number": 1035,
+    "codepoint": "U+100A3",
+    "symbol": "𐂣",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b154",
+    "name_en": "Ideogram B154"
+  },
+  {
+    "number": 1036,
+    "codepoint": "U+100A4",
+    "symbol": "𐂤",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b156",
+    "name_en": "Turo2"
+  },
+  {
+    "number": 1037,
+    "codepoint": "U+100A5",
+    "symbol": "𐂥",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b157",
+    "name_en": "Ideogram B157"
+  },
+  {
+    "number": 1038,
+    "codepoint": "U+100A6",
+    "symbol": "𐂦",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b158",
+    "name_en": "Ideogram B158"
+  },
+  {
+    "number": 1039,
+    "codepoint": "U+100A7",
+    "symbol": "𐂧",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Tissu",
+    "name_en": "Cloth"
+  },
+  {
+    "number": 1040,
+    "codepoint": "U+100A8",
+    "symbol": "𐂨",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b160",
+    "name_en": "Ideogram B160"
+  },
+  {
+    "number": 1041,
+    "codepoint": "U+100A9",
+    "symbol": "𐂩",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b161",
+    "name_en": "Ideogram B161"
+  },
+  {
+    "number": 1042,
+    "codepoint": "U+100AA",
+    "symbol": "𐂪",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Vêtement",
+    "name_en": "Garment"
+  },
+  {
+    "number": 1043,
+    "codepoint": "U+100AB",
+    "symbol": "𐂫",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Armure",
+    "name_en": "Armour"
+  },
+  {
+    "number": 1044,
+    "codepoint": "U+100AC",
+    "symbol": "𐂬",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b164",
+    "name_en": "Ideogram B164"
+  },
+  {
+    "number": 1045,
+    "codepoint": "U+100AD",
+    "symbol": "𐂭",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b165",
+    "name_en": "Ideogram B165"
+  },
+  {
+    "number": 1046,
+    "codepoint": "U+100AE",
+    "symbol": "𐂮",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b166",
+    "name_en": "Ideogram B166"
+  },
+  {
+    "number": 1047,
+    "codepoint": "U+100AF",
+    "symbol": "𐂯",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b167",
+    "name_en": "Ideogram B167"
+  },
+  {
+    "number": 1048,
+    "codepoint": "U+100B0",
+    "symbol": "𐂰",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b168",
+    "name_en": "Ideogram B168"
+  },
+  {
+    "number": 1049,
+    "codepoint": "U+100B1",
+    "symbol": "𐂱",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b169",
+    "name_en": "Ideogram B169"
+  },
+  {
+    "number": 1050,
+    "codepoint": "U+100B2",
+    "symbol": "𐂲",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b170",
+    "name_en": "Ideogram B170"
+  },
+  {
+    "number": 1051,
+    "codepoint": "U+100B3",
+    "symbol": "𐂳",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b171",
+    "name_en": "Ideogram B171"
+  },
+  {
+    "number": 1052,
+    "codepoint": "U+100B4",
+    "symbol": "𐂴",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b172",
+    "name_en": "Ideogram B172"
+  },
+  {
+    "number": 1053,
+    "codepoint": "U+100B5",
+    "symbol": "𐂵",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b173",
+    "name_en": "Month"
+  },
+  {
+    "number": 1054,
+    "codepoint": "U+100B6",
+    "symbol": "𐂶",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b174",
+    "name_en": "Ideogram B174"
+  },
+  {
+    "number": 1055,
+    "codepoint": "U+100B7",
+    "symbol": "𐂷",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b176",
+    "name_en": "Tree"
+  },
+  {
+    "number": 1056,
+    "codepoint": "U+100B8",
+    "symbol": "𐂸",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b177",
+    "name_en": "Ideogram B177"
+  },
+  {
+    "number": 1057,
+    "codepoint": "U+100B9",
+    "symbol": "𐂹",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b178",
+    "name_en": "Ideogram B178"
+  },
+  {
+    "number": 1058,
+    "codepoint": "U+100BA",
+    "symbol": "𐂺",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b179",
+    "name_en": "Ideogram B179"
+  },
+  {
+    "number": 1059,
+    "codepoint": "U+100BB",
+    "symbol": "𐂻",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b180",
+    "name_en": "Ideogram B180"
+  },
+  {
+    "number": 1060,
+    "codepoint": "U+100BC",
+    "symbol": "𐂼",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b181",
+    "name_en": "Ideogram B181"
+  },
+  {
+    "number": 1061,
+    "codepoint": "U+100BD",
+    "symbol": "𐂽",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b182",
+    "name_en": "Ideogram B182"
+  },
+  {
+    "number": 1062,
+    "codepoint": "U+100BE",
+    "symbol": "𐂾",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b183",
+    "name_en": "Ideogram B183"
+  },
+  {
+    "number": 1063,
+    "codepoint": "U+100BF",
+    "symbol": "𐂿",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b184",
+    "name_en": "Ideogram B184"
+  },
+  {
+    "number": 1064,
+    "codepoint": "U+100C0",
+    "symbol": "𐃀",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b185",
+    "name_en": "Ideogram B185"
+  },
+  {
+    "number": 1065,
+    "codepoint": "U+100C1",
+    "symbol": "𐃁",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b189",
+    "name_en": "Ideogram B189"
+  },
+  {
+    "number": 1066,
+    "codepoint": "U+100C2",
+    "symbol": "𐃂",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b190",
+    "name_en": "Ideogram B190"
+  },
+  {
+    "number": 1067,
+    "codepoint": "U+100C3",
+    "symbol": "𐃃",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b191",
+    "name_en": "Helmet"
+  },
+  {
+    "number": 1068,
+    "codepoint": "U+100C4",
+    "symbol": "𐃄",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b220",
+    "name_en": "Footstool"
+  },
+  {
+    "number": 1069,
+    "codepoint": "U+100C5",
+    "symbol": "𐃅",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b225",
+    "name_en": "Bathtub"
+  },
+  {
+    "number": 1070,
+    "codepoint": "U+100C6",
+    "symbol": "𐃆",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Lance",
+    "name_en": "Spear"
+  },
+  {
+    "number": 1071,
+    "codepoint": "U+100C7",
+    "symbol": "𐃇",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Flèche",
+    "name_en": "Arrow"
+  },
+  {
+    "number": 1072,
+    "codepoint": "U+100C8",
+    "symbol": "𐃈",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b232",
+    "name_en": "Ideogram B232"
+  },
+  {
+    "number": 1073,
+    "codepoint": "U+100C9",
+    "symbol": "𐃉",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Épée",
+    "name_en": "Sword"
+  },
+  {
+    "number": 1074,
+    "codepoint": "U+100CA",
+    "symbol": "𐃊",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b234",
+    "name_en": "Ideogram B234"
+  },
+  {
+    "number": 1075,
+    "codepoint": "U+100CB",
+    "symbol": "𐃋",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b236",
+    "name_en": "Ideogram B236"
+  },
+  {
+    "number": 1076,
+    "codepoint": "U+100CC",
+    "symbol": "𐃌",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b240",
+    "name_en": "Wheeled Chariot"
+  },
+  {
+    "number": 1077,
+    "codepoint": "U+100CD",
+    "symbol": "𐃍",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Char",
+    "name_en": "Chariot"
+  },
+  {
+    "number": 1078,
+    "codepoint": "U+100CE",
+    "symbol": "𐃎",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b242",
+    "name_en": "Chariot Frame"
+  },
+  {
+    "number": 1079,
+    "codepoint": "U+100CF",
+    "symbol": "𐃏",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Roue",
+    "name_en": "Wheel"
+  },
+  {
+    "number": 1080,
+    "codepoint": "U+100D0",
+    "symbol": "𐃐",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b245",
+    "name_en": "Ideogram B245"
+  },
+  {
+    "number": 1081,
+    "codepoint": "U+100D1",
+    "symbol": "𐃑",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b246",
+    "name_en": "Ideogram B246"
+  },
+  {
+    "number": 1082,
+    "codepoint": "U+100D2",
+    "symbol": "𐃒",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b247",
+    "name_en": "Dipte"
+  },
+  {
+    "number": 1083,
+    "codepoint": "U+100D3",
+    "symbol": "𐃓",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b248",
+    "name_en": "Ideogram B248"
+  },
+  {
+    "number": 1084,
+    "codepoint": "U+100D4",
+    "symbol": "𐃔",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b249",
+    "name_en": "Ideogram B249"
+  },
+  {
+    "number": 1085,
+    "codepoint": "U+100D5",
+    "symbol": "𐃕",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b251",
+    "name_en": "Ideogram B251"
+  },
+  {
+    "number": 1086,
+    "codepoint": "U+100D6",
+    "symbol": "𐃖",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b252",
+    "name_en": "Ideogram B252"
+  },
+  {
+    "number": 1087,
+    "codepoint": "U+100D7",
+    "symbol": "𐃗",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b253",
+    "name_en": "Ideogram B253"
+  },
+  {
+    "number": 1088,
+    "codepoint": "U+100D8",
+    "symbol": "𐃘",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b254",
+    "name_en": "Dart"
+  },
+  {
+    "number": 1089,
+    "codepoint": "U+100D9",
+    "symbol": "𐃙",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b255",
+    "name_en": "Ideogram B255"
+  },
+  {
+    "number": 1090,
+    "codepoint": "U+100DA",
+    "symbol": "𐃚",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b256",
+    "name_en": "Ideogram B256"
+  },
+  {
+    "number": 1091,
+    "codepoint": "U+100DB",
+    "symbol": "𐃛",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b257",
+    "name_en": "Ideogram B257"
+  },
+  {
+    "number": 1092,
+    "codepoint": "U+100DC",
+    "symbol": "𐃜",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b258",
+    "name_en": "Ideogram B258"
+  },
+  {
+    "number": 1093,
+    "codepoint": "U+100DD",
+    "symbol": "𐃝",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b259",
+    "name_en": "Ideogram B259"
+  },
+  {
+    "number": 1094,
+    "codepoint": "U+100DE",
+    "symbol": "𐃞",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b155",
+    "name_en": "Ideogram B155"
+  },
+  {
+    "number": 1095,
+    "codepoint": "U+100DF",
+    "symbol": "𐃟",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b200",
+    "name_en": "Ideogram B200"
+  },
+  {
+    "number": 1096,
+    "codepoint": "U+100E0",
+    "symbol": "𐃠",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b201",
+    "name_en": "Ideogram B201"
+  },
+  {
+    "number": 1097,
+    "codepoint": "U+100E1",
+    "symbol": "𐃡",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b202",
+    "name_en": "Ideogram B202"
+  },
+  {
+    "number": 1098,
+    "codepoint": "U+100E2",
+    "symbol": "𐃢",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b203",
+    "name_en": "Ideogram B203"
+  },
+  {
+    "number": 1099,
+    "codepoint": "U+100E3",
+    "symbol": "𐃣",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b204",
+    "name_en": "Ideogram B204"
+  },
+  {
+    "number": 1100,
+    "codepoint": "U+100E4",
+    "symbol": "𐃤",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b205",
+    "name_en": "Ideogram B205"
+  },
+  {
+    "number": 1101,
+    "codepoint": "U+100E5",
+    "symbol": "𐃥",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b206",
+    "name_en": "Ideogram B206"
+  },
+  {
+    "number": 1102,
+    "codepoint": "U+100E6",
+    "symbol": "𐃦",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b207",
+    "name_en": "Ideogram B207"
+  },
+  {
+    "number": 1103,
+    "codepoint": "U+100E7",
+    "symbol": "𐃧",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b208",
+    "name_en": "Ideogram B208"
+  },
+  {
+    "number": 1104,
+    "codepoint": "U+100E8",
+    "symbol": "𐃨",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b209",
+    "name_en": "Ideogram B209"
+  },
+  {
+    "number": 1105,
+    "codepoint": "U+100E9",
+    "symbol": "𐃩",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b210",
+    "name_en": "Ideogram B210"
+  },
+  {
+    "number": 1106,
+    "codepoint": "U+100EA",
+    "symbol": "𐃪",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b211",
+    "name_en": "Ideogram B211"
+  },
+  {
+    "number": 1107,
+    "codepoint": "U+100EB",
+    "symbol": "𐃫",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b212",
+    "name_en": "Ideogram B212"
+  },
+  {
+    "number": 1108,
+    "codepoint": "U+100EC",
+    "symbol": "𐃬",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b213",
+    "name_en": "Ideogram B213"
+  },
+  {
+    "number": 1109,
+    "codepoint": "U+100ED",
+    "symbol": "𐃭",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b214",
+    "name_en": "Ideogram B214"
+  },
+  {
+    "number": 1110,
+    "codepoint": "U+100EE",
+    "symbol": "𐃮",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b215",
+    "name_en": "Ideogram B215"
+  },
+  {
+    "number": 1111,
+    "codepoint": "U+100EF",
+    "symbol": "𐃯",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b216",
+    "name_en": "Ideogram B216"
+  },
+  {
+    "number": 1112,
+    "codepoint": "U+100F0",
+    "symbol": "𐃰",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b217",
+    "name_en": "Ideogram B217"
+  },
+  {
+    "number": 1113,
+    "codepoint": "U+100F1",
+    "symbol": "𐃱",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b218",
+    "name_en": "Ideogram B218"
+  },
+  {
+    "number": 1114,
+    "codepoint": "U+100F2",
+    "symbol": "𐃲",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b219",
+    "name_en": "Ideogram B219"
+  },
+  {
+    "number": 1115,
+    "codepoint": "U+100F3",
+    "symbol": "𐃳",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b221",
+    "name_en": "Ideogram B221"
+  },
+  {
+    "number": 1116,
+    "codepoint": "U+100F4",
+    "symbol": "𐃴",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b222",
+    "name_en": "Ideogram B222"
+  },
+  {
+    "number": 1117,
+    "codepoint": "U+100F5",
+    "symbol": "𐃵",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b226",
+    "name_en": "Ideogram B226"
+  },
+  {
+    "number": 1118,
+    "codepoint": "U+100F6",
+    "symbol": "𐃶",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b227",
+    "name_en": "Ideogram B227"
+  },
+  {
+    "number": 1119,
+    "codepoint": "U+100F7",
+    "symbol": "𐃷",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b228",
+    "name_en": "Ideogram B228"
+  },
+  {
+    "number": 1120,
+    "codepoint": "U+100F8",
+    "symbol": "𐃸",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b229",
+    "name_en": "Ideogram B229"
+  },
+  {
+    "number": 1121,
+    "codepoint": "U+100F9",
+    "symbol": "𐃹",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b250",
+    "name_en": "Ideogram B250"
+  },
+  {
+    "number": 1122,
+    "codepoint": "U+100FA",
+    "symbol": "𐃺",
+    "phonetic": "??",
+    "category": "ideogram",
+    "name_fr": "Idéogramme b305",
+    "name_en": "Ideogram B305"
+  },
+  {
+    "number": 9001,
+    "codepoint": "U+00B7",
+    "symbol": "·",
+    "phonetic": "·",
+    "category": "special",
+    "name_fr": "Séparateur de mot",
+    "name_en": "Word separator"
+  },
+  {
+    "number": 9002,
+    "codepoint": "U+2014",
+    "symbol": "—",
+    "phonetic": "—",
+    "category": "special",
+    "name_fr": "Trait séparateur",
+    "name_en": "Separator stroke"
+  }
+]

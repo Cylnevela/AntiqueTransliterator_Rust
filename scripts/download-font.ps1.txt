@@ -1,0 +1,9 @@
+$ErrorActionPreference = "Stop"
+
+$uri = "https://raw.githubusercontent.com/notofonts/linear-b/main/fonts/ttf/NotoSansLinearB-Regular.ttf"
+
+$out = Join-Path $PSScriptRoot "..\assets\NotoSansLinearB-Regular.ttf"
+
+Invoke-WebRequest -Uri $uri -OutFile $out
+
+Write-Host "Downloaded Noto Sans Linear B to $out"
